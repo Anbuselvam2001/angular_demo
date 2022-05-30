@@ -1,12 +1,6 @@
-# Editable Dynamic Table Using Angular Material
+# AngularDemo
 
-This repository is an example to demonstrate how to create an editable table that can consume a schema and dynamically change input types on the UI. Please refer to [this article](https://muhimasri.com/blogs/create-an-editable-dynamic-table-using-angular-material/) for a thorough explanation.
-
-Video demo:
-
-[![](src/assets/SnapshotTable.PNG)](https://youtu.be/sZ-2YYmNcRg)
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
 ## Development server
 
